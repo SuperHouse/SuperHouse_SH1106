@@ -49,7 +49,7 @@
 #endif
 
 #include <Adafruit_GFX.h>
-#include "Adafruit_SSD1306.h"
+#include "SuperHouse_SH1106.h"
 #include "splash.h"
 
 // SOME DEFINES AND STATIC VARIABLES USED INTERNALLY -----------------------
