@@ -21,8 +21,8 @@
  *
  */
 
-#ifndef _Adafruit_SSD1306_H_
-#define _Adafruit_SSD1306_H_
+#ifndef _SuperHouse_SSD1306_H_
+#define _SuperHouse_SSD1306_H_
 
 // ONE of the following three lines must be #defined:
 //#define SSD1306_128_64 ///< DEPRECTAED: old way to specify 128x64 screen
